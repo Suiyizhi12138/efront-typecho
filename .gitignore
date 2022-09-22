@@ -29,5 +29,4 @@ config.rb
 /usr/*.db
 /usr/plugins/
 !/usr/plugins/HelloWorld
-/usr/themes/
 !/usr/themes/default
